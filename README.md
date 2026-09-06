@@ -1,0 +1,1 @@
+This is my first web page. It features a short introduction about myself as well as a map of importation locations. I built it in VSCode, using HTML, CSS, and JavaScript, then posted it to be seen publicly via github.
